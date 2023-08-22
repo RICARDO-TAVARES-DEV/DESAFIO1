@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 50vh;
+    margin-top: 100px;
+
+}
+
+header h1 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 72px;
+}
+
+header h2 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 48px;
+    color: #884FFE;
+    ;
+}
+
+main {
+    width: 1000px;
+    justify-content:left;
+    padding-left: 100px;
+}
+
+.inicio{
+
+display: flex;
+}
+
+
+.numero1{
+    
+color:#884FFE;
+padding-right: 20px;
+
+}
+
+
+.divisor1{
+color: #CBCFD9;
+margin-bottom: 20px;
+}
+
+section h2{
+    font-family: 'DM Sans', sans-serif;
+    padding-left: 100px;
+    font-size: 18px;
+    margin-top: 10px;
+    }
+
+   .retangulo{
+    margin-left: 100px;
+    margin-top: 30px;
+    border:hidden;
+    border-radius: 4px;
+    width: 80vw;
+    height: 15vh;
+    background-color: #574AE8;
+    }
+
+    section h3{
+        margin-top: 20px;
+        margin-bottom: 100px;
+        font-family: 'DM Sans', sans-serif;
+        padding-left: 100px;
+        font-size: 18px;
+    }
